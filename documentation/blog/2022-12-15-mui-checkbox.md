@@ -29,7 +29,7 @@ Steps we'll cover:
   - [Checkboxes vs Radio buttons](#checkboxes-vs-radio-buttons)
   - [Checkboxes vs Switches](#checkboxes-vs-switches)
 - [MUI Checkbox Accessibility](#mui-checkbox-accessibility)
-- [Cocnclusion](#conclusion)
+- [Conclusion](#conclusion)
 
 ## What is Material UI?
 Material UI is a powerful and efficient tool that simplifies web design by providing ready-made components and technically available utilities.  It is a design language created by Google in 2014. It can be used with all JavaScript frameworks and libraries, such as AngularJS and VueJS, to make the application more amazing and responsive. Material UI is one of the top React User Interface libraries, with over 35,000 stars on GitHub. Many developers now structure their projects with Material UI because it simplifies and improves web design.
