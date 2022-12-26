@@ -29,6 +29,7 @@ Steps we'll cover:
   - [Checkboxes vs Radio buttons](#checkboxes-vs-radio-buttons)
   - [Checkboxes vs Switches](#checkboxes-vs-switches)
 - [MUI Checkbox Accessibility](#mui-checkbox-accessibility)
+- [Cocnclusion](#conclusion)
 
 ## What is Material UI?
 Material UI is a powerful and efficient tool that simplifies web design by providing ready-made components and technically available utilities.  It is a design language created by Google in 2014. It can be used with all JavaScript frameworks and libraries, such as AngularJS and VueJS, to make the application more amazing and responsive. Material UI is one of the top React User Interface libraries, with over 35,000 stars on GitHub. Many developers now structure their projects with Material UI because it simplifies and improves web design.
@@ -489,7 +490,7 @@ A single choice is required, and you want to provide two options for an on/off d
 
 
 
-Building a Contact form UI with React and the MUI Checkbox
+## Building a Contact form UI with React and the MUI Checkbox
 The Material UI Checkbox can be incorporated into various aspects of a variety of web applications. For the sake of this article, we will explore a potential use case by building a simple contact form UI with the MUI Checkbox as a distinct component.
 
 Here’s the code:
@@ -562,6 +563,15 @@ All form controls including Checkboxes, radio buttons and switches should typica
   }}
 />
 ```
+
+## Conclusion
+
+This article briefly reviewed Material UI and its component categories. We then highlighted the Material UI Checkbox exploring its variations and props for effective customization. We also explored a potential use case in a contact form showcasing the MUI Checkbox as a clickable component. 
+
+
+I hope this article becomes valuable to you.
+
+Happy coding!
 
 
 
